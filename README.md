@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThomasSchauer
 - 👀 I’m interested in eating
-- 🌱 I’m currently learning Adaptive Autosar
+- 🌱 I’m currently learning Adaptive Autosar and Software Factory
 - 📫 How to reach me: thomas.schauer@vector.com
 
 <!---
